@@ -30,7 +30,7 @@
 - ### 接口源
 
 ```bash
-https://ghp.xons.us.kg/https://raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/config/contents.txt
+https://ghp.xons.me/https://raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/config/contents.txt
 ```
 
 - ### 直播源
@@ -38,17 +38,17 @@ https://ghp.xons.us.kg/https://raw.githubusercontent.com/Xylonium/TV-LIVE/refs/h
 ##### TV
 
 ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/Xylonium/TV/refs/heads/master/output/result.txt
+https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV/refs/heads/master/output/result.txt
 ```
 
 <!-- ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/itv/itvlist.txt
+https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/itv/itvlist.txt
 ``` -->
 
 ##### 范明明
 
 ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
+https://ghp.xons.me/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
 ```
 
 ```bash
@@ -58,11 +58,11 @@ https://live.fanmingming.cn/tv/m3u/ipv6.m3u
 ##### 肥羊
 
 ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/Ftindy/IPTV-URL/main/SXYD.m3u
+https://ghp.xons.me/raw.githubusercontent.com/Ftindy/IPTV-URL/main/SXYD.m3u
 ```
 
 ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/sac/sac.json
+https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/sac/sac.json
 ```
 
 ##### 俊于
@@ -78,20 +78,20 @@ https://tv.iill.top/m3u/Gather
 ```
 
 ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://ghp.xons.me/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 ```
 
 - ### TVbox
 
 ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/loadrp.txt
+https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/loadrp.txt
 ```
 
 ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/wind.txt
+https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/wind.txt
 ```
 
 <!-- ```bash
-https://ghp.xons.us.kg/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/pg/jsm.json
+https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/pg/jsm.json
 ``` -->
 
