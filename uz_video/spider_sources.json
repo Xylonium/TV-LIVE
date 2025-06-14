@@ -1,0 +1,33 @@
+[
+    {
+        "name": "厂长视频",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/changZhang20240614.js",
+        "instance": "changZhang20240614",
+        "webSite": "https://czzy.top",
+        "remark": ""
+    },
+    {
+        "name": "在線之家",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/zxzj.js",
+        "instance": "zxzj20240620",
+        "webSite": "https://www.zxzja.com",
+        "remark": "頻繁搜索會觸發風控，建議間隔10秒以上"
+    },
+    {
+        "name": "歐樂",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/olevod.js",
+        "instance": "olevod20240620",
+        "webSite": "https://www.olevod.tv",
+        "remark": "需海外IP"
+    },
+    {
+        "name": "燒火電影",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/saohuo.js",
+        "instance": "saohuo20240623",
+        "webSite": "https://saohuo.tv",
+        "remark": ""
+    },
+    {
+        "name": "韓劇看看",
+        "api": "https://ghp.ci/https://raw.githubusercontent.com/yswag/uzVideo/main/js/spider/hjkk.js",
+      

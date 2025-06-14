@@ -1,0 +1,2791 @@
+{
+  "tbl_site": [
+    {
+      "id": "c2822bba32d3068fe82dd2336d7be96c",
+      "name": "4K-HDR",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/4K-AV.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "87dc464110b8c4ba703155220c2c5294",
+      "name": "4k剧院(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/4k剧院.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "bdcd110a18877af486b969560f14f13b",
+      "name": "A冒失的风雪snow",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/8号影院.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "dd7418129a0a184b9cb3a839dea4c688",
+      "name": "微信公众号",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/85k影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "b48778ccb17df4229abef207f09bae07",
+      "name": "爱弹幕[漫](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/爱弹幕[漫].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "7ebe2d656442a2a3979098d4bbd17b93",
+      "name": "暴风资源[资](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/暴风资源[资].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "28b1f19956a3650a336a81625495d1a1",
+      "name": "贝乐虎[儿](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/贝乐虎[儿].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "cfca6f24b7ceff650180e59de17409ff",
+      "name": "厂长资源(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/厂长资源.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "785affe0ca8e106041754747dfd2d0c6",
+      "name": "刺猬影视(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/刺猬影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "bb53863cd9ac27765b0f0deb147559d4",
+      "name": "达达龟(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/达达龟.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "17220f68e3641add67719c54dc530b83",
+      "name": "达达猪(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/达达猪.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "4d2905df68fb4ef94d0fa2c38b8ae26a",
+      "name": "大米动漫[漫](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/大米动漫[漫].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "c3214edf2e9ad25968b3a33aac506982",
+      "name": "大千视界(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/大千视界.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "46753dea56d026e9101db30d70a31c38",
+      "name": "蛋蛋赞(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/蛋蛋赞.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "ebc0dca4295225ec6e4c0815cbac64c6",
+      "name": "嘀哩嘀哩(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/嘀哩嘀哩.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "dfb382b8a5fed6d99462a66f9cda8c39",
+      "name": "电影先生(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/电影先生.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "39998efe119d9632bf1d6f2b3a7e5b08",
+      "name": "短剧天堂(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/短剧天堂.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "d3025a76f69f53930032c27507c6bd12",
+      "name": "短剧TV网(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/短剧TV网.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "45ca4e1e377a155442db7b11b8a310b4",
+      "name": "河狸影视[V2](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/河狸影视[V2].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "0bee0b93726ab1b2b9bf88f5faa94701",
+      "name": "茄子影视[自动](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/茄子影视[自动].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "dfd81239b247b0746186487ee2e95833",
+      "name": "剧迷(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/剧迷.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "6f835070dbbf14fd4a3418cc18d3d23c",
+      "name": "老王电影[自动](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/老王电影[自动].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "9e441f13fd3aa10d168058bd779456c5",
+      "name": "两个BT(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/两个BT.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "31bb7e40845c9cc415f8012a6daca9c1",
+      "name": "量子资源[资](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/量子资源[资].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "cbe51f9f216a782829e9bb77455c26c8",
+      "name": "美剧窝(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/美剧窝.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "5c862af419966a4a0aa5dbe9e68907f5",
+      "name": "魔方影视(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/魔方影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "67edd505d9c1fc978f5ca95ad5f2ebef",
+      "name": "耐看(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/耐看.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "94e7f28bb70c6b89e7bcefa974375066",
+      "name": "飘花影院(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/飘花影院.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "18f565a84aaee6e7a59e87ea0867bcc5",
+      "name": "七新电影网(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/七新电影网.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "81efd576c97a5ee23df48fdc1b7d01a5",
+      "name": "奇米动漫[漫](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/奇米动漫[漫].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "80045cbf7d0d194868ee0f1aa070b213",
+      "name": "人人影视(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/人人影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "f8ff0ffd74a6d1b642f6d6727a1ef21e",
+      "name": "烧火影视[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/烧火影视[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "eb1decc47f5c1de425bd6592c3e356b7",
+      "name": "首发网(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/首发网.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "48cf51dc78f43aafbf4f3a6608becc94",
+      "name": "素白白[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/素白白[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "6d9c98fb02224f9662a51ed14a92adf0",
+      "name": "索尼资源[资](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/索尼资源[资].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "d4c8e438783526cc682e57f4eff7d32d",
+      "name": "天天影视(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/天天影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "25470432468e2102c0ffa406bef33445",
+      "name": "歪片星球[资](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/歪片星球[资].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "ce034328d86b7e97dff8eb15f93923e7",
+      "name": "网飞啦[自动](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/网飞啦[自动].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "bc33d59bcf3b63ff746e9caa06b64865",
+      "name": "网飞猫[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/网飞猫[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "f915f013c6a7e7e108b2dee445b6b107",
+      "name": "西瓜影院(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/西瓜影院.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "247dff494a9a769efbf5f28818b78ccd",
+      "name": "西屋影视(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/西屋影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "c052c1d0d0375f46846f9487b76dcfe1",
+      "name": "小白菜电影(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/小白菜电影.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "2b8b5e4ed3597ce0594c9e023737d69b",
+      "name": "小马影视[V2](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/小马影视[V2].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "1dc806f05c80675ddb26109a409dd38d",
+      "name": "星辰[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/星辰[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "f70e209d720ecadaa60456e9bb53f059",
+      "name": "星芽短剧[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/星芽短剧[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "924a2633b277e10124ceb0887aee3506",
+      "name": "熊猫TV(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/熊猫TV.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "d03bd66f28d5143b87b5de40ca8c06dd",
+      "name": "旋风视频(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/旋风视频.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "3bb98dc0a297b2977a1fb5f68e80e96d",
+      "name": "鸭飞影视[V2](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/鸭飞影视[V2].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "30feb5475e45f4fc7f0ade38092ddeec",
+      "name": "一起看[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/一起看[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "8f4c71183b59e30a660403f94fc5bd47",
+      "name": "戏曲",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/一曲肝肠断.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "8e956afae1979abb0f27f373c1710482",
+      "name": "映播TV(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/映播TV.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "e72ec850755744d700464dc5294e2b1c",
+      "name": "游子视频(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/游子视频.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "cda9ea4e9929f247743b9c5dad68fe79",
+      "name": "云电影网(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/云电影网.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "e76a08abed7d498025217243fa56e150",
+      "name": "子子影视(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/子子影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "a3987145450a4c9f011bd151b6d8df3e",
+      "name": "auete(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/auete.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "31254dbad37149c7b7ec4702daa56640",
+      "name": "Auete影视(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/Auete影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "7f90e8351d923a67d4881d951d0d62f7",
+      "name": "bilfun(自动)(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/bilfun(自动).js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "8dfae1a8a660bf6204d9700c51ddb0bc",
+      "name": "GO影视(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/GO影视.js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "3e8ac854dfe230ad6433bd03aa472fa6",
+      "name": "HBOTV[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/HBOTV[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "b3e2521ee3fdd7a0c6ab9bea67321b56",
+      "name": "LIBVIO[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/LIBVIO[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "c357519c3fa9ae7c643835172f73a74f",
+      "name": "NT动漫[漫](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/NT动漫[漫].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "3a07567ecf484e731a64c300d3c38f71",
+      "name": "ok资源[资](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/ok资源[资].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "677fc37ebc24dc85bbf54e627057badc",
+      "name": "PTT[优](drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/PTT[优].js",
+      "isActive": true,
+      "status": true
+    },
+    {
+      "id": "a14276451fbdba9e3f7b63edf46634f4",
+      "name": "PTT追剧大师(drpy_t3)",
+      "type": 7,
+      "api": "https://jk.fookxue.cn/zy1016/drpy_libs/drpy2.min.js",
+      "group": "hipy",
+      "search": 1,
+      "categories": null,
+      "ext": "https://jk.fookxue.cn/zy1016/drpy_js/PTT追剧大师.js",
+      "isActive": true,
+      "status": true
+    }
+  ],
+  "tbl_iptv": [
+    {
+      "name": "冒失的风雪",
+      "url": "https://jk.fookxue.cn/tvzb.txt",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": "e00f8473-7d21-4c96-95fb-5616963c4380"
+    },
+    {
+      "id": "1",
+      "name": "范明明IPv6",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "2",
+      "name": "YangG",
+      "url": "https://tv.iill.top/m3u/Gather",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    }
+  ],
+  "tbl_channel": [
+    {
+      "name": "CCTV-1综合",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
+      "group": "冒失的风雪微信公众号",
+      "id": "w_BqqJ2Yfo995Si2VmTNS"
+    },
+    {
+      "name": "CCTV-1综合",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8",
+      "group": "央视频道",
+      "id": "AnMT39mq4jdNra3in6wER"
+    },
+    {
+      "name": "CCTV-2财经",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8",
+      "group": "央视频道",
+      "id": "6jX3xpgLg68DKln6w6EmE"
+    },
+    {
+      "name": "CCTV-3综艺",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8",
+      "group": "央视频道",
+      "id": "Fg4uds8CDyYIZM5h-R9KK"
+    },
+    {
+      "name": "CCTV-4中文国际",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8",
+      "group": "央视频道",
+      "id": "X1POv4ObMGRkDGo9Fg-2V"
+    },
+    {
+      "name": "CCTV-5体育",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8",
+      "group": "央视频道",
+      "id": "1wcZ8L6JgzFGSCG3Qytfy"
+    },
+    {
+      "name": "CCTV-5+体育赛事",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8",
+      "group": "央视频道",
+      "id": "Wm6EQRuNqSS3LWKz3WjDJ"
+    },
+    {
+      "name": "CCTV-6电影",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8",
+      "group": "央视频道",
+      "id": "uPs6bso6MDe8Ub82hw0Ev"
+    },
+    {
+      "name": "CCTV-7军事·农业",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8",
+      "group": "央视频道",
+      "id": "UgjARCKK9Of8oR5mdR2ej"
+    },
+    {
+      "name": "CCTV-8电视剧",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8",
+      "group": "央视频道",
+      "id": "CyLFWHmdz3a0wOPBpAW9Y"
+    },
+    {
+      "name": "CCTV-9纪录",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8",
+      "group": "央视频道",
+      "id": "A3Yfr7aiGOcLYXvGQaKOA"
+    },
+    {
+      "name": "CCTV-10科教",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8",
+      "group": "央视频道",
+      "id": "mihN57ffzn4-XhXPkSr2v"
+    },
+    {
+      "name": "CCTV-11戏曲",
+      "url": "http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?",
+      "group": "央视频道",
+      "id": "TuMY64FEc5gKsz_T9LInq"
+    },
+    {
+      "name": "CCTV-12社会与法",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8",
+      "group": "央视频道",
+      "id": "VbBk0nKP-8FDtOWTSsCZW"
+    },
+    {
+      "name": "CCTV-13新闻",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8#https://pi.0472.org/tv/startv.php?auth=231110",
+      "group": "央视频道",
+      "id": "N-ILqvw2mn0WtfAaqDo0q"
+    },
+    {
+      "name": "CCTV-14少儿",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8",
+      "group": "央视频道",
+      "id": "JCl4cpytKQqxgfdQ_z5-z"
+    },
+    {
+      "name": "CCTV-15音乐",
+      "url": "http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8",
+      "group": "央视频道",
+      "id": "U5lPc-4dbi5YIf4eJa7xp"
+    },
+    {
+      "name": "CCTV-15音乐",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8",
+      "group": "央视频道",
+      "id": "MgzfLSIauZiFMwuieKlT0"
+    },
+    {
+      "name": "CCTV-16奥林匹克",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8",
+      "group": "央视频道",
+      "id": "7omZs4nIePg9ZX1YDJltr"
+    },
+    {
+      "name": "CCTV-17农业农村",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8",
+      "group": "央视频道",
+      "id": "8-rVXIM9TtAm_wdOoSF-l"
+    },
+    {
+      "name": "浙江新闻",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+      "group": "地方卫视",
+      "id": "0_T61lJB4DWdv0l6GI5j8"
+    },
+    {
+      "name": "浙江国际",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+      "group": "地方卫视",
+      "id": "U7yVebymRKi5e3AOmSN3Z"
+    },
+    {
+      "name": "浙江教科影视",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+      "group": "地方卫视",
+      "id": "4hjZp4IHszZZjlNBOyoQb"
+    },
+    {
+      "name": "浙江钱江都市",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+      "group": "地方卫视",
+      "id": "-77uUiSv3dGh9yvAiK1ry"
+    },
+    {
+      "name": "邯郸新闻",
+      "url": "https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8",
+      "group": "地方卫视",
+      "id": "QQkXjucpCS08eOBoodYOo"
+    },
+    {
+      "name": "邯郸公共",
+      "url": "https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8",
+      "group": "地方卫视",
+      "id": "WwYpkYK8axcp01YfYPl-g"
+    },
+    {
+      "name": "兴隆综合",
+      "url": "https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8",
+      "group": "地方卫视",
+      "id": "mwHeCu_amrWVTMLjCklss"
+    },
+    {
+      "name": "潼南综合",
+      "url": "http://183.230.184.51:65500/tntv1.m3u8?zzhongqd",
+      "group": "地方卫视",
+      "id": "Iyt_hBJfaEXVcRIl4d471"
+    },
+    {
+      "name": "璧山综合",
+      "url": "http://222.179.42.129:8181/hls1.m3u8?zzhongqd",
+      "group": "地方卫视",
+      "id": "r7oSwr8SNCJOxIzIKCers"
+    },
+    {
+      "name": "湘潭新闻综合",
+      "url": "http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8",
+      "group": "地方卫视",
+      "id": "--W1LcmUGx_U7G0yO1MY5"
+    },
+    {
+      "name": "湘潭综合",
+      "url": "http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8",
+      "group": "地方卫视",
+      "id": "dNJ2FSewRURO7EfiORYvS"
+    },
+    {
+      "name": "延边卫视",
+      "url": "http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild",
+      "group": "地方卫视",
+      "id": "Wt8IlFwZCC7sve6ix2N9f"
+    },
+    {
+      "name": "延边汉语综合",
+      "url": "http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild",
+      "group": "地方卫视",
+      "id": "1NDmpiQnFpXbPh87lE67S"
+    },
+    {
+      "name": "伊犁哈萨克",
+      "url": "http://110.153.180.106:55555/out_3/index.m3u8",
+      "group": "地方卫视",
+      "id": "4IVnH4NMYEc9gy-61RtxU"
+    },
+    {
+      "name": "武汉新闻综合",
+      "url": "http://stream.appwuhan.com/1tzb/sd/live.m3u8",
+      "group": "地方卫视",
+      "id": "N15VnqZiBwCrJamnE3X7J"
+    },
+    {
+      "name": "武汉生活",
+      "url": "http://stream.appwuhan.com/3tzb/sd/live.m3u8",
+      "group": "地方卫视",
+      "id": "nTpESlTfTwSQr0C2h28Ia"
+    },
+    {
+      "name": "新闻综合",
+      "url": "https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800",
+      "group": "地方卫视",
+      "id": "EoiCPu-r718FSjl8xsmd-"
+    },
+    {
+      "name": "经济生活",
+      "url": "https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800",
+      "group": "地方卫视",
+      "id": "Fra9w-fnUSZ8lEs_dC39S"
+    },
+    {
+      "name": "文体娱乐",
+      "url": "https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800",
+      "group": "地方卫视",
+      "id": "Qx1j1g055CbbkaPnxm6Kx"
+    },
+    {
+      "name": "蒙语卫视",
+      "url": "https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880",
+      "group": "地方卫视",
+      "id": "8sZnBCOsyMHVFy-7Iy17W"
+    },
+    {
+      "name": "蒙语文化",
+      "url": "https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800",
+      "group": "地方卫视",
+      "id": "XBROT0ldBCMQ__OkLOCav"
+    },
+    {
+      "name": "黑龙江都市",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8",
+      "group": "地方卫视",
+      "id": "rym4mfXRdgw2aoMcgBRnG"
+    },
+    {
+      "name": "黑龙江文体",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8",
+      "group": "地方卫视",
+      "id": "4mxlx_EbROZoNNqV1kmuL"
+    },
+    {
+      "name": "黑龙江农业",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8",
+      "group": "地方卫视",
+      "id": "aQ1uVwcD0lX2Rr1WlIix5"
+    },
+    {
+      "name": "黑龙江影视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8",
+      "group": "地方卫视",
+      "id": "alr4a0zBCVvUwmL64nMCf"
+    },
+    {
+      "name": "武汉文体",
+      "url": "http://stream.appwuhan.com/5tzb/sd/live.m3u8",
+      "group": "地方卫视",
+      "id": "LqVW75RrnPKXyczG4A5SV"
+    },
+    {
+      "name": "荆门新闻",
+      "url": "http://stream.jmtv.com.cn/xwzh/sd/live.m3u8",
+      "group": "地方卫视",
+      "id": "FmXeubL3zFheODdP8eDZB"
+    },
+    {
+      "name": "十堰新闻",
+      "url": "http://p8.vzan.com/slowlive/034028687228317362/live.m3u8",
+      "group": "地方卫视",
+      "id": "gJZug43f-kNWTkoDxbl5t"
+    },
+    {
+      "name": "苏州新闻综合",
+      "url": "http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8",
+      "group": "地方卫视",
+      "id": "ZTH95AajB46Z0YjYzYqEH"
+    },
+    {
+      "name": "苏州文化生活",
+      "url": "http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8",
+      "group": "地方卫视",
+      "id": "pL4GTaNqPQ41M3JKQq0_k"
+    },
+    {
+      "name": "无锡新闻综合",
+      "url": "http://stream.thmz.com/wxtv1/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "A__L81aMSLxnx2Cp43AR2"
+    },
+    {
+      "name": "无锡生活",
+      "url": "http://stream.thmz.com/wxtv4/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "NbXT2yNqSomzGPPLF0eW9"
+    },
+    {
+      "name": "江阴新闻综合",
+      "url": "http://221.228.70.101:8080/live/xinwen.m3u8",
+      "group": "地方卫视",
+      "id": "AhZs8S92tzo9-wN1hrNZ4"
+    },
+    {
+      "name": "常熟民生经济",
+      "url": "http://cstvplay.21cs.cn/cstv2/cstv2.m3u8",
+      "group": "地方卫视",
+      "id": "x4_RERBunX0jyeWjDKSrm"
+    },
+    {
+      "name": "连云港新闻综合",
+      "url": "http://live.lyg1.com/zhpd/sd/live.m3u8",
+      "group": "地方卫视",
+      "id": "T7gJbUG601iQT5wTsV1lg"
+    },
+    {
+      "name": "镇江新闻综合",
+      "url": "http://zjtv-wshls.homecdn.com/live/2aa50.m3u8",
+      "group": "地方卫视",
+      "id": "OEtplZfhjl7V9kyGcIVJa"
+    },
+    {
+      "name": "镇江民生",
+      "url": "http://zjtv-wshls.homecdn.com/live/2aa16.m3u8",
+      "group": "地方卫视",
+      "id": "Mny9ybk6BWoPNgTCiOxBv"
+    },
+    {
+      "name": "大丰新闻",
+      "url": "http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8",
+      "group": "地方卫视",
+      "id": "buHLnyR5tD_6kA6NSH7GJ"
+    },
+    {
+      "name": "大丰公共",
+      "url": "http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8",
+      "group": "地方卫视",
+      "id": "Twtn9fpSrz5tNaP1qNhvC"
+    },
+    {
+      "name": "如东新闻",
+      "url": "http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8",
+      "group": "地方卫视",
+      "id": "-whTraEqoqHTDU7u9dh5s"
+    },
+    {
+      "name": "靖江电视",
+      "url": "http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "gX4pZx4C_P8mc-g3K0hHY"
+    },
+    {
+      "name": "淮安公共频道",
+      "url": "http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd",
+      "group": "地方卫视",
+      "id": "qAWoPyoPxGNGcei6HxwD0"
+    },
+    {
+      "name": "金湖新闻综合",
+      "url": "http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd",
+      "group": "地方卫视",
+      "id": "XS8X8ZXq-xBQ2cx5ENI5F"
+    },
+    {
+      "name": "睢宁三农频道",
+      "url": "http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd",
+      "group": "地方卫视",
+      "id": "KzxZZwH6mGu5e15y8hZi3"
+    },
+    {
+      "name": "睢宁资讯频道",
+      "url": "http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd",
+      "group": "地方卫视",
+      "id": "nnFY__y2X7zj9RdVU6Vfu"
+    },
+    {
+      "name": "东海新闻频道",
+      "url": "http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd",
+      "group": "地方卫视",
+      "id": "_x96QQPN4I0qcTKHEIPVt"
+    },
+    {
+      "name": "沛县新闻综合",
+      "url": "http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd",
+      "group": "地方卫视",
+      "id": "yEZIODrMGxmPvlxPSxyus"
+    },
+    {
+      "name": "泗阳综合频道",
+      "url": "http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd",
+      "group": "地方卫视",
+      "id": "CIGp_n64oGSaJyx5Ow29Q"
+    },
+    {
+      "name": "泗阳资讯频道",
+      "url": "http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd",
+      "group": "地方卫视",
+      "id": "4WTTwJQElemDloFd5I_FL"
+    },
+    {
+      "name": "BRTV新闻",
+      "url": "http://live.funhillrm.com/5/sd/live.m3u8",
+      "group": "地方卫视",
+      "id": "bp3454OXuNg8QhsCUsIUT"
+    },
+    {
+      "name": "房山无线频道",
+      "url": "http://live.funhillrm.com/2/sd/live.m3u8",
+      "group": "地方卫视",
+      "id": "0JQne8D8JOZLCKd0iB0NH"
+    },
+    {
+      "name": "上虞新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed",
+      "group": "地方卫视",
+      "id": "HHbgc_1l2IUtbFeKw3a7x"
+    },
+    {
+      "name": "上虞文化影院",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed",
+      "group": "地方卫视",
+      "id": "2rLmcqz9DYk2mxxPXzjHo"
+    },
+    {
+      "name": "上虞新商都",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed",
+      "group": "地方卫视",
+      "id": "vOTphcpR5-FpYIZNzeZ0V"
+    },
+    {
+      "name": "嘉定电视台",
+      "url": "https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8",
+      "group": "地方卫视",
+      "id": "Wc9aSMYvhpIh5wlTue1DZ"
+    },
+    {
+      "name": "崇明电视台",
+      "url": "https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8",
+      "group": "地方卫视",
+      "id": "UKqX1RKmXgmfHExoQ_AUb"
+    },
+    {
+      "name": "点掌财经",
+      "url": "https://wsvideo.aniu.tv/live/aniu/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "9rUgn61OuGgc8d3ZztKLK"
+    },
+    {
+      "name": "杭州余杭综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "2FQtODmsFSfx3tqNBi8u4"
+    },
+    {
+      "name": "江山电视台",
+      "url": "http://play-sh.quklive.com/live/1623117710666335.m3u8",
+      "group": "地方卫视",
+      "id": "-1Rrc-1NnLw85B23on9VD"
+    },
+    {
+      "name": "金华东阳综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "zjjNxC9xd-Z1xhskiF9VY"
+    },
+    {
+      "name": "丽水青田综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "prQqpPaKAGs09Hc9ZHWKl"
+    },
+    {
+      "name": "丽水松阳综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "43sSw2jlSJbc6r1rTMnn9"
+    },
+    {
+      "name": "丽水遂昌综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "BMTty1kIn-LwCHua8Rxmc"
+    },
+    {
+      "name": "丽水云和综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "5p7ZNGuOzWY9ethvEtdD8"
+    },
+    {
+      "name": "龙游生活娱乐",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8",
+      "group": "地方卫视",
+      "id": "f81bJoMO4dJ2woDIUShNc"
+    },
+    {
+      "name": "龙游新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "jzbXNhS5JIjr86gIq9pFg"
+    },
+    {
+      "name": "宁波象山综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "9vL2WzVXACZNnW3ILku7S"
+    },
+    {
+      "name": "宁波余姚生活",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8",
+      "group": "地方卫视",
+      "id": "bWeI7iMtjxJewgNi82caK"
+    },
+    {
+      "name": "宁波余姚综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "Z3SdgNFmjWnMIz6qhVYfy"
+    },
+    {
+      "name": "平湖民生休闲",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8",
+      "group": "地方卫视",
+      "id": "jghG6vPMkC65J-b9bjzho"
+    },
+    {
+      "name": "普陀新闻综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "HuILHVTuUIYfndjPFZvmU"
+    },
+    {
+      "name": "衢州开化综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "UHpDow07OlbiXlkYGI88l"
+    },
+    {
+      "name": "衢州龙游生活",
+      "url": "https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8",
+      "group": "地方卫视",
+      "id": "62Ktslsg7CSasRxSd9bLc"
+    },
+    {
+      "name": "上虞新商都",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8",
+      "group": "地方卫视",
+      "id": "q2KL5QT2PiqgC5ydemQmD"
+    },
+    {
+      "name": "绍兴新闻综合",
+      "url": "http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8",
+      "group": "地方卫视",
+      "id": "1EuVVAxVUbWx2TkAjwnwU"
+    },
+    {
+      "name": "绍兴文化影视",
+      "url": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8",
+      "group": "地方卫视",
+      "id": "Z7CGDxMVZjnugzNu0HDP7"
+    },
+    {
+      "name": "天台和合频道",
+      "url": "http://hlsv2.quklive.com/live/1617072208961931/index.m3u8",
+      "group": "地方卫视",
+      "id": "0zDbQoF4qFBoaEK_noxrh"
+    },
+    {
+      "name": "文成综合",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8",
+      "group": "地方卫视",
+      "id": "BErCtIdmQ5jSpR9Rbgg4U"
+    },
+    {
+      "name": "萧山生活频道",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8",
+      "group": "地方卫视",
+      "id": "UFXSmROK2rdgGjw9TkvZr"
+    },
+    {
+      "name": "贺州综合",
+      "url": "http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "Ym7QmcSjRdCVt7VZdwO4H"
+    },
+    {
+      "name": "烟台公共频道",
+      "url": "http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8",
+      "group": "地方卫视",
+      "id": "XqGcbW020Ldm-zq3kcJEY"
+    },
+    {
+      "name": "烟台经济科技",
+      "url": "http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8",
+      "group": "地方卫视",
+      "id": "o781twDUSab1Ydz7A81Kt"
+    },
+    {
+      "name": "烟台新闻综合",
+      "url": "http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8",
+      "group": "地方卫视",
+      "id": "g2Vk6bQEZVc78lw1UiVaB"
+    },
+    {
+      "name": "山西经济",
+      "url": "http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true",
+      "group": "地方卫视",
+      "id": "_MIkF3lo-o70HLPAcd1gM"
+    },
+    {
+      "name": "德阳新闻综合",
+      "url": "http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "25t9c6RzYZq8beACEHWpq"
+    },
+    {
+      "name": "金川乡村",
+      "url": "http://live.jinchuanrmt.com:90/live/jcxc.m3u8",
+      "group": "地方卫视",
+      "id": "JAq1aI7UwxVYOqaPvXQfX"
+    },
+    {
+      "name": "利州综合",
+      "url": "http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "wI1Ff2QYRurCiPPufB_AM"
+    },
+    {
+      "name": "松潘新闻综合",
+      "url": "http://live.spccmc.com:90/live/spxwzh.m3u8",
+      "group": "地方卫视",
+      "id": "ni4-I_LqKUxjBsIxa-IFN"
+    },
+    {
+      "name": "汶川新闻综合",
+      "url": "http://live.iwcmt.cn:90/live/zhxw.m3u8",
+      "group": "地方卫视",
+      "id": "J53WNAvY8E71a75Bk04yt"
+    },
+    {
+      "name": "营山电视台",
+      "url": "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "1XQJJOZKjzjkKrYKxLJ6x"
+    },
+    {
+      "name": "万源新闻综合",
+      "url": "http://live.wanyuannews.com/wytv/hd/live.m3u8",
+      "group": "地方卫视",
+      "id": "G-ZFZ94D1tFu6KCrLV0vx"
+    },
+    {
+      "name": "德阳公共",
+      "url": "http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd",
+      "group": "地方卫视",
+      "id": "IFBNksZkNZnogqdG3ifpv"
+    },
+    {
+      "name": "甘孜综合",
+      "url": "http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd",
+      "group": "地方卫视",
+      "id": "swBzqhR6pF1HudkjhxyOY"
+    },
+    {
+      "name": "叙州新闻综合",
+      "url": "http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd",
+      "group": "地方卫视",
+      "id": "BQC7ylAqDXo1IoAxcuxci"
+    },
+    {
+      "name": "鹤岗新闻综合",
+      "url": "http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8",
+      "group": "地方卫视",
+      "id": "Gbs9K_yy4OeQcoJVfC4uv"
+    },
+    {
+      "name": "焦作公共",
+      "url": "http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "zmwh1ZE2miXiNMxeveFmq"
+    },
+    {
+      "name": "焦作综合",
+      "url": "http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "9RSAEq4eoqvJWz3PWiipn"
+    },
+    {
+      "name": "淅川综合",
+      "url": "http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8",
+      "group": "地方卫视",
+      "id": "GFwRa15xqNT9lDNsCjQT_"
+    },
+    {
+      "name": "福州新闻",
+      "url": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8",
+      "group": "地方卫视",
+      "id": "xKRNY_PDiJCp2Avc1OJ79"
+    },
+    {
+      "name": "漳州新闻",
+      "url": "http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8",
+      "group": "地方卫视",
+      "id": "SzO8fqqw2wy2CoHujLzWP"
+    },
+    {
+      "name": "河北经济",
+      "url": "http://live.hyxrmt.com:85/live/xwpd.m3u8",
+      "group": "地方卫视",
+      "id": "KLECMxMst0zwnesWdHfKW"
+    },
+    {
+      "name": "石家庄新闻",
+      "url": "http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8",
+      "group": "地方卫视",
+      "id": "NHiKDwV7bgBJ9EOt8mNJt"
+    },
+    {
+      "name": "承德公共生活",
+      "url": "https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8",
+      "group": "地方卫视",
+      "id": "Y-zjJMLvcP74EI3vl3ftb"
+    },
+    {
+      "name": "承德新闻综合",
+      "url": "https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8",
+      "group": "地方卫视",
+      "id": "VBw2fjhg7PGuAhL53mY4s"
+    },
+    {
+      "name": "丰宁综合频道",
+      "url": "https://jwliveqxzb.hebyun.com.cn/fengningzonghe/fengningzonghe.m3u8",
+      "group": "地方卫视",
+      "id": "lAJO_KwAKPLA8X_79z6Tx"
+    },
+    {
+      "name": "邯郸新闻",
+      "url": "https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8",
+      "group": "地方卫视",
+      "id": "wgVyW0PbwFUhqUxxBCy7b"
+    },
+    {
+      "name": "麻栗坡",
+      "url": "http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv",
+      "group": "地方卫视",
+      "id": "5794zlcALOlWL0ZgLL4Xs"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8",
+      "group": "卫视频道",
+      "id": "hOJZANMgLDhWKldmptsRB"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://60.223.255.188:9901/tsfile/live/0124_1.m3u8",
+      "group": "卫视频道",
+      "id": "nFEvcDQnxP-W6aGeQKS6M"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true",
+      "group": "卫视频道",
+      "id": "ksFivGFqMrMJ1Cw7UMsoW"
+    },
+    {
+      "name": "山西卫视",
+      "url": "http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8",
+      "group": "卫视频道",
+      "id": "OhXNb036OwcZPKwg4WMGt"
+    },
+    {
+      "name": "青海卫视",
+      "url": "http://stream.qhbtv.com/qhws/sd/live.m3u8",
+      "group": "卫视频道",
+      "id": "9ZcpxsuMayLdT96DEgWxL"
+    },
+    {
+      "name": "黄河卫视",
+      "url": "http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true",
+      "group": "卫视频道",
+      "id": "kaMZwLkdspXJExXtaS7N0"
+    },
+    {
+      "name": "滨海新闻",
+      "url": "http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8",
+      "group": "卫视频道",
+      "id": "DISXNHMAiZNvt3RnveGHw"
+    },
+    {
+      "name": "滨海综艺",
+      "url": "http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8",
+      "group": "卫视频道",
+      "id": "h0oBCtq2CR0clNE98bEv8"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8",
+      "group": "卫视频道",
+      "id": "hWZPDjV_WwZ9yGpkqVzTB"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8",
+      "group": "卫视频道",
+      "id": "8AdFr11IhSFf3GZe0lUzh"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8",
+      "group": "卫视频道",
+      "id": "DBWd0djk0sbU2Aa9p1cTE"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8",
+      "group": "卫视频道",
+      "id": "Bo_vHapZbSZugqJiQj9Jh"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8",
+      "group": "卫视频道",
+      "id": "z2Ffs6mj3Z-xJq9k0kZAV"
+    },
+    {
+      "name": "重庆卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8",
+      "group": "卫视频道",
+      "id": "yCk1FAlzUub2s6yDlFwnh"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8",
+      "group": "卫视频道",
+      "id": "PSqhaKTzr6cDz2vSnmV-o"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8",
+      "group": "卫视频道",
+      "id": "krGak_E7AuMoubhU2cZST"
+    },
+    {
+      "name": "黑龙江卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8",
+      "group": "卫视频道",
+      "id": "T8l2kvHv8KJwI9gBmpEEC"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8",
+      "group": "卫视频道",
+      "id": "_5sB9vSi4-KhvwZYd0792"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8",
+      "group": "卫视频道",
+      "id": "qDfUuFLp5qI-YrEH9ZQgF"
+    },
+    {
+      "name": "安徽卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8",
+      "group": "卫视频道",
+      "id": "seRCAyQ7zCVGRhzNtTX72"
+    },
+    {
+      "name": "湖北卫视",
+      "url": "http://123.14.85.141:8888/hls/23/index.m3u8",
+      "group": "卫视频道",
+      "id": "HQzcKeaMzWWHnoPM-fua3"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://123.14.85.141:8888/hls/24/index.m3u8",
+      "group": "卫视频道",
+      "id": "XgQxcvxVCvjZfRPFpW71M"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://123.14.85.141:8888/hls/27/index.m3u8",
+      "group": "卫视频道",
+      "id": "jFerO8m4phePD0ik6x1CS"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://123.14.85.141:8888/hls/28/index.m3u8",
+      "group": "卫视频道",
+      "id": "X0ISmwddJOsYgNq-rYLmV"
+    },
+    {
+      "name": "辽宁卫视",
+      "url": "http://123.14.85.141:8888/hls/30/index.m3u8",
+      "group": "卫视频道",
+      "id": "UwJIAq2Yk8HUsDEC75Qwh"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8",
+      "group": "卫视频道",
+      "id": "H38SQALdIRKpw9zexFEA3"
+    },
+    {
+      "name": "江西卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8",
+      "group": "卫视频道",
+      "id": "n89b0SU6zBR_AVpMnuu_d"
+    },
+    {
+      "name": "海南卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8",
+      "group": "卫视频道",
+      "id": "Dhf4rWQe9vLLnlGGWmf3Y"
+    },
+    {
+      "name": "东南卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8",
+      "group": "卫视频道",
+      "id": "cKTfUT3XI-a22aUNAoCCx"
+    },
+    {
+      "name": "河北卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8",
+      "group": "卫视频道",
+      "id": "Qq06yoxrm_iF_cWD25qmS"
+    },
+    {
+      "name": "河南卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8",
+      "group": "卫视频道",
+      "id": "yxITtOux4DegNrK1yc3-E"
+    },
+    {
+      "name": "吉林卫视",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8",
+      "group": "卫视频道",
+      "id": "KJvjnPHN7BXYeire9cWEK"
+    },
+    {
+      "name": "东北热剧",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8",
+      "group": "卫视频道",
+      "id": "5wTrPWT6dEVUhmvSofVgv"
+    },
+    {
+      "name": "宠物频道",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8",
+      "group": "卫视频道",
+      "id": "mW3cFIooZyDa9as0EohP2"
+    },
+    {
+      "name": "新加坡国际",
+      "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8",
+      "group": "卫视频道",
+      "id": "IQzLUKNo4FSgMwglntvoV"
+    },
+    {
+      "name": "新加坡中文台",
+      "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd",
+      "group": "卫视频道",
+      "id": "BMqK4ZmDp5mbyI5mybXZv"
+    },
+    {
+      "name": "面包台",
+      "url": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+      "group": "卫视频道",
+      "id": "pemzl69O5Rp84bjdoOUh9"
+    },
+    {
+      "name": "港集专线直播",
+      "url": "https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6",
+      "group": "卫视频道",
+      "id": "zdZRcPLBYD4hX7ZojiPC8"
+    },
+    {
+      "name": "人间卫视",
+      "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8",
+      "group": "卫视频道",
+      "id": "vjeL5ATpvWEme5b9H31Yr"
+    },
+    {
+      "name": "人间卫视",
+      "url": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8",
+      "group": "卫视频道",
+      "id": "7Q6ZEp4jX5_Ixdw57c6z9"
+    },
+    {
+      "name": "大立电视",
+      "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+      "group": "卫视频道",
+      "id": "X4u5wO8QdfcIEqf16A3iZ"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "3t9FHnFrcuxmPFiw5Lzkr"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://58.216.99.148:80/live2.rxip.sc96655.com/live/test2_4000.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "t0SHiCqXPEnO5Sa3o_Ih1"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "rleaN6vik00EEr9zP_W-a"
+    },
+    {
+      "name": "凤凰资讯",
+      "url": "http://146.56.153.245:20121/bysid/257",
+      "group": "港台（凤凰）卫视",
+      "id": "fg27vpGspiko-DMgt6oeu"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "d961a5IveeA9VcovRtQ75"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://58.216.99.148:80/live2.rxip.sc96655.com/live/test1_4000.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "7QANW92M-MvGY9gnSKFak"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "ClIlkJjpidu0OE4qU7tkj"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "3Tg4wXXz_Gtdh371beCeZ"
+    },
+    {
+      "name": "凤凰中文",
+      "url": "http://117.114.153.1:8180/TV00000000000000000069@HHZT",
+      "group": "港台（凤凰）卫视",
+      "id": "HTw_TEmIO-7Hg-jI-6Nkk"
+    },
+    {
+      "name": "凤凰香港",
+      "url": "http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "eUjkzrY67zc-o77XPUau0"
+    },
+    {
+      "name": "凤凰香港",
+      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "xfK-L0YRoQGwGuzJZo8dh"
+    },
+    {
+      "name": "香港卫视",
+      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "ALjovKbe7oB7kCUiPGCpV"
+    },
+    {
+      "name": "香港卫视",
+      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "fqj-Y5YKmEJQvnRHLZkBX"
+    },
+    {
+      "name": "香港卫视",
+      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639",
+      "group": "港台（凤凰）卫视",
+      "id": "6acl5vpGbHVKwOPsvZX6Q"
+    },
+    {
+      "name": "香港卫视",
+      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq.flv",
+      "group": "港台（凤凰）卫视",
+      "id": "usB4vSHGC3nowReNLNSgs"
+    },
+    {
+      "name": "香港卫视",
+      "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "LKtwI3MdhWmYXPXvR_gGE"
+    },
+    {
+      "name": "TVB翡翠台",
+      "url": "http://php.jdshipin.com:8880/smt.php?id=jade_twn",
+      "group": "港台（凤凰）卫视",
+      "id": "Sxy4-Y6a_1qlXwO4G4SIU"
+    },
+    {
+      "name": "TVB翡翠台",
+      "url": "http://php.jdshipin.com:8880/smt.php?id=jade_twn",
+      "group": "港台（凤凰）卫视",
+      "id": "esOlFIRx3QYtqYe1Mof6Z"
+    },
+    {
+      "name": "明珠台",
+      "url": "http://php.jdshipin.com:8880/smt.php?id=pearl_twn",
+      "group": "港台（凤凰）卫视",
+      "id": "CyRiaObP4Wq-qQ-N8HMPH"
+    },
+    {
+      "name": "TVB星河",
+      "url": "http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "vGqzCYUZYG00PU1-28ewe"
+    },
+    {
+      "name": "TVB娱乐新闻",
+      "url": "http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "xSC_4bat8Pni6njMuT3lC"
+    },
+    {
+      "name": "RTHK31",
+      "url": "http://php.jdshipin.com:8880/smt.php?id=rhk31_twn",
+      "group": "港台（凤凰）卫视",
+      "id": "xUg0lX7fWn99lcJYNjQ2l"
+    },
+    {
+      "name": "RTHK32",
+      "url": "http://php.jdshipin.com:8880/smt.php?id=rhk32_twn",
+      "group": "港台（凤凰）卫视",
+      "id": "zi2bfUFOvIoDdrHCYQwgc"
+    },
+    {
+      "name": "TVB无线新闻",
+      "url": "http://php.jdshipin.com:8880/smt.php?id=inews_twn",
+      "group": "港台（凤凰）卫视",
+      "id": "WSiwwHQzKk77R34jF1Enr"
+    },
+    {
+      "name": "TVB无线新闻",
+      "url": "http://bziyunshao.synology.me:8890/bysid/83",
+      "group": "港台（凤凰）卫视",
+      "id": "wOKi7X7iio5tC_ktvDYgY"
+    },
+    {
+      "name": "TVB无线新闻",
+      "url": "http://live.cooltv.top/tv/tvb.php?id=2&hq",
+      "group": "港台（凤凰）卫视",
+      "id": "5ZYDweLtHdyLJQ6YP9q4R"
+    },
+    {
+      "name": "TVB新闻",
+      "url": "http://61.221.215.25:8800/hls/9/index.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "63HilRio5UNgUuu0S4m4E"
+    },
+    {
+      "name": "星空卫视",
+      "url": "http://117.114.153.1:8180/TV00000000000000000071@HHZT",
+      "group": "港台（凤凰）卫视",
+      "id": "asE2ac8LXTagIGbYhRuKG"
+    },
+    {
+      "name": "人间卫视",
+      "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "uoToE0pK2NFvUusRbboxo"
+    },
+    {
+      "name": "大爱一台",
+      "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "Dy04gsuI3D7hfdYVot3ol"
+    },
+    {
+      "name": "大爱一台",
+      "url": "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "GLBQF4MGXtav-ap38HPXj"
+    },
+    {
+      "name": "大爱二台",
+      "url": "https://pulltv2.wanfudaluye.com/live/tv2.m3u8",
+      "group": "港台（凤凰）卫视",
+      "id": "Mm19BbGZJstSyemRCkaNN"
+    },
+    {
+      "name": "黑莓动画",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8",
+      "group": "💞少儿",
+      "id": "TNhpDIAZaACYxP-sSfoKL"
+    },
+    {
+      "name": "余年",
+      "url": "https://lz.qaiu.top/parser?url=https://pan.hefamily.net/s/rP3u0",
+      "group": "电影轮播",
+      "id": "cdFh9lqntY4vLWyHD705L"
+    },
+    {
+      "name": "庆余年",
+      "url": "http://124.248.69.76:35455/douyu/7489563",
+      "group": "电影轮播",
+      "id": "GTisukBuIxrW5EZX72TsL"
+    },
+    {
+      "name": "火影忍者",
+      "url": "http://mtw.so/5FCWPi",
+      "group": "电影轮播",
+      "id": "vkF-JapUAJsFJIgCfBskU"
+    },
+    {
+      "name": "港版封神榜",
+      "url": "http://124.248.69.76:35455/huya/23749096",
+      "group": "电影轮播",
+      "id": "EUWo57AR_GPbIy9txChUs"
+    },
+    {
+      "name": "港版西游记2",
+      "url": "http://124.248.69.76:35455/huya/23735126",
+      "group": "电影轮播",
+      "id": "5tm9IHJSqyey6VkNwNTNA"
+    },
+    {
+      "name": "寻秦记",
+      "url": "http://124.248.69.76:35455/huya/23864973",
+      "group": "电影轮播",
+      "id": "_FGPuO1ewCfAYyHNFwNWW"
+    },
+    {
+      "name": "神雕侠侣",
+      "url": "http://124.248.69.76:35455/huya/23865171",
+      "group": "电影轮播",
+      "id": "UdSy6pLbeR2eA1yUFWX83"
+    },
+    {
+      "name": "狄仁杰",
+      "url": "http://124.248.69.76:35455/huya/11352958",
+      "group": "电影轮播",
+      "id": "CE2KhZ2jL5KsmaAoAnql-"
+    },
+    {
+      "name": "康熙王朝",
+      "url": "http://124.248.69.76:35455/huya/11352940",
+      "group": "电影轮播",
+      "id": "CQTSIY7j1YnPaToe0g9HE"
+    },
+    {
+      "name": "大唐双龙传",
+      "url": "http://124.248.69.76:35455/huya/23728674",
+      "group": "电影轮播",
+      "id": "HrqZ4iwFtgmuxFCh4jo0x"
+    },
+    {
+      "name": "笑傲江湖",
+      "url": "http://124.248.69.76:35455/huya/23865142",
+      "group": "电影轮播",
+      "id": "YeaQFUPYTwRSXG7-HkBON"
+    },
+    {
+      "name": "倚天屠龙记",
+      "url": "http://124.248.69.76:35455/huya/23734246",
+      "group": "电影轮播",
+      "id": "tUZFkNqJ20rNxN-0NfJow"
+    },
+    {
+      "name": "鹿鼎记98",
+      "url": "http://124.248.69.76:35455/huya/23865080",
+      "group": "电影轮播",
+      "id": "XdO0y2Ke6eB0-xjY9DIRR"
+    },
+    {
+      "name": "动作电影",
+      "url": "http://mtw.so/6he0fm",
+      "group": "电影轮播",
+      "id": "Mn4yFFMJBPpdv-Qwe0tnH"
+    },
+    {
+      "name": "喜剧电影",
+      "url": "http://159.75.85.63:35455/douyu/9292492",
+      "group": "电影轮播",
+      "id": "ukrfCC3_ZsgklzTRFEH5i"
+    },
+    {
+      "name": "粤语电影",
+      "url": "https://www.goodiptv.club/douyu/1226741",
+      "group": "电影轮播",
+      "id": "s-0XKyZEcjD-nNcwE2t16"
+    },
+    {
+      "name": "凌儿影院",
+      "url": "http://159.75.85.63:35455/douyu/1377142",
+      "group": "电影轮播",
+      "id": "3gX7TrXvXFgqJSOG7jD2a"
+    },
+    {
+      "name": "恐怖电影",
+      "url": "http://159.75.85.63:35455/douyu/2935323",
+      "group": "电影轮播",
+      "id": "6rin5828rUL_rzR1aPObH"
+    },
+    {
+      "name": "鬼片恐怖",
+      "url": "http://maomao.kandiantv.cn/douyu1.php?id=2935323",
+      "group": "电影轮播",
+      "id": "nQCtHzeNvX5Die9yOBezQ"
+    },
+    {
+      "name": "欧美大片",
+      "url": "http://maomao.kandiantv.cn/douyu1.php?id=2793084",
+      "group": "电影轮播",
+      "id": "5aqXiliPfc06o1Z5CTVKR"
+    },
+    {
+      "name": "万合出品",
+      "url": "https://www.goodiptv.club/douyu/9220456",
+      "group": "电影轮播",
+      "id": "_utjeAyKgLkr71v7xUXEP"
+    },
+    {
+      "name": "林正英",
+      "url": "http://lxajh.top/tv/douyu.php?id=7356023",
+      "group": "电影轮播",
+      "id": "Ai-NsOvS9BLsnnGsZlJkc"
+    },
+    {
+      "name": "李连杰",
+      "url": "http://mtw.so/69HNaP",
+      "group": "电影轮播",
+      "id": "mKnhKA1isVXPHhKpB65_Z"
+    },
+    {
+      "name": "成龙",
+      "url": "http://lxajh.top/tv/douyu.php?id=3379942",
+      "group": "电影轮播",
+      "id": "syGH5e0X7XFzwPne_hDYF"
+    },
+    {
+      "name": "刘德华",
+      "url": "http://lxajh.top/tv/douyu.php?id=2516864",
+      "group": "电影轮播",
+      "id": "FEoHkdHDS9g9JPq764c5M"
+    },
+    {
+      "name": "周星驰",
+      "url": "http://lxajh.top/tv/douyu.php?id=122402",
+      "group": "电影轮播",
+      "id": "Y8VNmzVn3ZLUBZ_EruHvl"
+    },
+    {
+      "name": "漫威系列",
+      "url": "http://lxajh.top/tv/douyu.php?id=6140589",
+      "group": "电影轮播",
+      "id": "EBpkZ5A615eXF-yXX_FSR"
+    },
+    {
+      "name": "变种人系列",
+      "url": "http://lxajh.top/tv/douyu.php?id=9651304",
+      "group": "电影轮播",
+      "id": "y57tZLrgQDr4IZWKAQ2vh"
+    },
+    {
+      "name": "搞笑解说[壹]",
+      "url": "http://lxajh.top/tv/douyu.php?id=9643264",
+      "group": "电影轮播",
+      "id": "M3rfx2i_zq3lUOgjYt1wi"
+    },
+    {
+      "name": "华语经典[壹]",
+      "url": "http://lxajh.top/tv/douyu.php?id=85894",
+      "group": "电影轮播",
+      "id": "G4Iht8omc4NcgxpynH3jG"
+    },
+    {
+      "name": "华语经典[貮]",
+      "url": "http://lxajh.top/tv/douyu.php?id=338759",
+      "group": "电影轮播",
+      "id": "TNT6Pq2E7fHyh4Wqe9L_p"
+    },
+    {
+      "name": "三国演义[老版]",
+      "url": "http://lxajh.top/tv/douyu.php?id=7459925",
+      "group": "电影轮播",
+      "id": "dGxmqX8uiU82gAI7IVXbf"
+    },
+    {
+      "name": "三国演义[新版]",
+      "url": "http://lxajh.top/tv/douyu.php?id=5908256",
+      "group": "电影轮播",
+      "id": "eEtEJGKwANdBLHwlazYN1"
+    },
+    {
+      "name": "吐槽大会",
+      "url": "http://lxajh.top/tv/douyu.php?id=9236042",
+      "group": "电影轮播",
+      "id": "nMRfb2D5cP-RAHYOFOLBl"
+    },
+    {
+      "name": "可乐电影",
+      "url": "http://124.248.69.76:35455/douyu/20415",
+      "group": "电影轮播",
+      "id": "Wp789UJrdpP0NKh661DZT"
+    },
+    {
+      "name": "邵氏影院",
+      "url": "http://124.248.69.76:35455/douyu/4246519",
+      "group": "电影轮播",
+      "id": "QQ96aMWdWo-hPgbbsoxE6"
+    },
+    {
+      "name": "经典巨制",
+      "url": "http://124.248.69.76:35455/douyu/2793084.",
+      "group": "电影轮播",
+      "id": "katkB3qrucp6Q8aO5IyBq"
+    },
+    {
+      "name": "邵氏影院",
+      "url": "https://www.goodiptv.club/douyu/4246519",
+      "group": "💞电影频道",
+      "id": "dNLGHF1PCuFs_qLXGldn0"
+    },
+    {
+      "name": "斗鱼电影A",
+      "url": "http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1",
+      "group": "💞电影频道",
+      "id": "uDC1dJCkd2tPBHH5vPEpq"
+    },
+    {
+      "name": "斗鱼电影B",
+      "url": "http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2",
+      "group": "💞电影频道",
+      "id": "bGej3aNlSaEo_fjPjnwfH"
+    },
+    {
+      "name": "高分影院",
+      "url": "https://www.goodiptv.club/douyu/8770422",
+      "group": "💞电影频道",
+      "id": "133Hyql3IsPCxFeZgm8e2"
+    },
+    {
+      "name": "喜剧电影",
+      "url": "http://159.75.85.63:35455/douyu/9292492",
+      "group": "💞电影频道",
+      "id": "r5uegVHLK4PnHsMBCYKYc"
+    },
+    {
+      "name": "粤语电影",
+      "url": "https://www.goodiptv.club/douyu/1226741",
+      "group": "💞电影频道",
+      "id": "Cq_KdYqquuoN_9stAWOY1"
+    },
+    {
+      "name": "米滴电影",
+      "url": "http://159.75.85.63:35455/douyu/315457",
+      "group": "💞电影频道",
+      "id": "J75r2R9XuB1wd0maGWsiK"
+    },
+    {
+      "name": "瑶瑶恐怖",
+      "url": "http://159.75.85.63:35455/douyu/2935323",
+      "group": "💞电影频道",
+      "id": "9yjBIVy4n_3cDrCkE11uR"
+    },
+    {
+      "name": "吉利影院",
+      "url": "https://pull.kktv8.com/livekktv/128600025.flv",
+      "group": "💞电影频道",
+      "id": "_Zr_4TRtttevrgbTPqQoI"
+    },
+    {
+      "name": "惊悚悬疑",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8",
+      "group": "💞电影频道",
+      "id": "vnkPD4tKh8Flu-kavtNGg"
+    },
+    {
+      "name": "经典电影",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8",
+      "group": "💞电影频道",
+      "id": "n5zpomaoLC2MAvvTWlcCe"
+    },
+    {
+      "name": "家庭剧场",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8",
+      "group": "💞电影频道",
+      "id": "PYvcYH0GqZi4ML_8IEGis"
+    },
+    {
+      "name": "华语影院",
+      "url": "http://171.221.34.20:4022/rtp/239.93.42.86:5140?$四川电信",
+      "group": "💞电影频道",
+      "id": "O1XkpR6511oYI-dcHUHZa"
+    },
+    {
+      "name": "爱怀旧",
+      "url": "http://171.221.34.20:4022/rtp/239.93.42.21:5140?$四川电信",
+      "group": "💞电影频道",
+      "id": "c9GDHcC5ag1m214p8F_5o"
+    },
+    {
+      "name": "爱科幻",
+      "url": "http://171.221.34.20:4022/rtp/239.93.42.10:5140?$四川电信",
+      "group": "💞电影频道",
+      "id": "i6AP6-Du1iKLT3zi9ACi9"
+    },
+    {
+      "name": "爱院线",
+      "url": "http://171.221.34.20:4022/rtp/239.93.42.11:5140?$四川电信",
+      "group": "💞电影频道",
+      "id": "s6mTCr_QvaeDdjCdhsdZZ"
+    },
+    {
+      "name": "爱经典",
+      "url": "http://171.221.34.20:4022/rtp/239.93.42.13:5140?$四川电信",
+      "group": "💞电影频道",
+      "id": "W_rtBB5IUn2nVMyP1As6X"
+    },
+    {
+      "name": "爱悬疑",
+      "url": "http://171.221.34.20:4022/rtp/239.93.42.12:5140?$四川电信",
+      "group": "💞电影频道",
+      "id": "FS4ACK9dL1p4LuDEya17R"
+    },
+    {
+      "name": "爱青春",
+      "url": "http://171.221.34.20:4022/rtp/239.93.42.16:5140?$四川电信",
+      "group": "💞电影频道",
+      "id": "wJl_PV-zUhvJ4lLJ-x8LN"
+    },
+    {
+      "name": "NewTV古装剧场",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8",
+      "group": "数字频道",
+      "id": "rZjFP8p8dACUy2g56pSZm"
+    },
+    {
+      "name": "NewTV东北热剧",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8",
+      "group": "数字频道",
+      "id": "ZYL_8P5nh-j3AfzkeP3HB"
+    },
+    {
+      "name": "NewTV中国功夫",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8",
+      "group": "数字频道",
+      "id": "hWIbMUdrfrUthSot0HNzH"
+    },
+    {
+      "name": "NewTV军事评论",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8",
+      "group": "数字频道",
+      "id": "QZbl7SlWxW3jaKSZeo_y2"
+    },
+    {
+      "name": "NewTV军旅剧场",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8",
+      "group": "数字频道",
+      "id": "bvNjDCLHa6Qc2gRME79KA"
+    },
+    {
+      "name": "NewTV农业致富",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8",
+      "group": "数字频道",
+      "id": "GT_geri8CbqIZs81AoUn_"
+    },
+    {
+      "name": "NewTV动作电影",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8",
+      "group": "数字频道",
+      "id": "lGKN-GXalVnxu6G1Ts4_s"
+    },
+    {
+      "name": "NewTV家庭剧场",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8",
+      "group": "数字频道",
+      "id": "8iH-NWXqoQ8yGKqwCOpYQ"
+    },
+    {
+      "name": "NewTV怡伴健康",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8",
+      "group": "数字频道",
+      "id": "jva7FuuO-8J-Ims5LVUoM"
+    },
+    {
+      "name": "NewTV惊悚悬疑",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8",
+      "group": "数字频道",
+      "id": "vJ2B0pWYnSY6Enr6tXXwZ"
+    },
+    {
+      "name": "NewTV明星大片",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8",
+      "group": "数字频道",
+      "id": "KLDDRNTVqFkWx_oOT7Vo5"
+    },
+    {
+      "name": "NewTV欢乐剧场",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8",
+      "group": "数字频道",
+      "id": "Lyfw2Pq3xcWEj6RH7aTDL"
+    },
+    {
+      "name": "NewTV武搏世界",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8",
+      "group": "数字频道",
+      "id": "B-WmJNhDBxAjCmI_THu7y"
+    },
+    {
+      "name": "NewTV海外剧场",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8",
+      "group": "数字频道",
+      "id": "waL-HCmlfys7Zg4XzGJ6n"
+    },
+    {
+      "name": "NewTV潮妈辣婆",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8",
+      "group": "数字频道",
+      "id": "YL3cc-CQvr3mlsv0zOsJK"
+    },
+    {
+      "name": "NewTV精品大剧",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8",
+      "group": "数字频道",
+      "id": "OCkGuBw5E0EpKQLDrRJ84"
+    },
+    {
+      "name": "NewTV精品纪录",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8",
+      "group": "数字频道",
+      "id": "ANljWuv7978dxeRam_QbC"
+    },
+    {
+      "name": "NewTV精品体育",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8",
+      "group": "数字频道",
+      "id": "_nW-A8Y9o7I30z-GwqC9m"
+    },
+    {
+      "name": "NewTV超级体育",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8",
+      "group": "数字频道",
+      "id": "4_TpeWsi5hzIjl1IF397V"
+    },
+    {
+      "name": "NewTV超级电影",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8",
+      "group": "数字频道",
+      "id": "oYiqq-nP1k3ZqProNhgVm"
+    },
+    {
+      "name": "NewTV超级电视剧",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8",
+      "group": "数字频道",
+      "id": "SQJXqAueN2ALgEk7LDKuS"
+    },
+    {
+      "name": "NewTV超级综艺",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8",
+      "group": "数字频道",
+      "id": "Yo7YLVHqw8hof22TGs14E"
+    },
+    {
+      "name": "NewTV金牌综艺",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8",
+      "group": "数字频道",
+      "id": "7vWdoOIdELSlssrgYwrG5"
+    },
+    {
+      "name": "NewTV精品萌宠",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8",
+      "group": "数字频道",
+      "id": "okQgr-ez1kKf9TWcxgNjw"
+    }
+  ],
+  "tbl_analyze": [
+    {
+      "id": "oPStB91BGES1n-FZZjU_v",
+      "name": "777",
+      "url": "https://jx.777jiexi.com/player/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "QXF3ps-MVrI9MfilExWTJ",
+      "name": "8090g",
+      "url": "https://www.8090g.cn/jiexi/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "ALOvS3sna_ylBt8EaMYKA",
+      "name": "ik9",
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "qt-M8ofIJROmBXGxyAu21",
+      "name": "杰森",
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "1RMgIwiCb61QMGHSVniKn",
+      "name": "阳途",
+      "url": "https://jx.yangtu.top/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "G9jL0bZ0KXzm0wZGd0pZq",
+      "name": "冰豆",
+      "url": "https://bd.jx.cn/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "zllIymvxBvwmdXxXpJrqU",
+      "name": "m3u8TV",
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "C5MSXl183QBq8PF7B0XJk",
+      "name": "听乐",
+      "url": "https://jx.dj6u.com/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "h9oLIeTrbOx-BWyRRoH5d",
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "xO-2OPNPIqP4DtqIH5Xd_",
+      "name": "虾米2",
+      "url": "https://jx.xmflv.cc/?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "wFLgL_TNd7qBmuZFK3Juu",
+      "name": "云析",
+      "url": "https://jx.yparse.com/index.php?url=",
+      "type": 0,
+      "isActive": true
+    },
+    {
+      "id": "yQ98bd8cxu1LzuhCfFGvQ",
+      "name": "红狐",
+      "url": "https://player.mrgaocloud.com/player/?url=",
+      "type": 0,
+      "isActive": true
+    }
+  ],
+  "tbl_setting": [
+    {
+      "key": "version",
+      "value": "3.3.7",
+      "id": "1db776e1-2e4c-4938-83d1-1801ab3a905c"
+    },
+    {
+      "key": "theme",
+      "value": "auto",
+      "id": "6d2dc06f-4603-45a6-a49a-1df8135533e0"
+    },
+    {
+      "key": "lang",
+      "value": "zh_CN",
+      "id": "5693fa43-65eb-4430-bc76-4990788a22fc"
+    },
+    {
+      "key": "defaultHot",
+      "value": "kylive",
+      "id": "f50eadfe-17ad-4fcd-ba0d-3dac41a683ac"
+    },
+    {
+      "key": "defaultSearchRecommend",
+      "value": "site",
+      "id": "de6aa839-1262-42c8-b6bf-2f06ca6d3b0a"
+    },
+    {
+      "key": "defaultSearchType",
+      "value": "all",
+      "id": "aae1768f-4648-4708-b697-af904ebbec24"
+    },
+    {
+      "key": "defaultViewCasual",
+      "value": "",
+      "id": "643b6864-fc43-4a6d-be4b-7dcab5c916b2"
+    },
+    {
+      "key": "defaultDanMuKu",
+      "value": "",
+      "id": "c9381b73-ffdd-49b0-ab6d-7c91b5e11086"
+    },
+    {
+      "key": "defaultIptvEpg",
+      "value": "http://diyp.112114.xyz/",
+      "id": "5dab4962-b901-4701-9d1b-a99dbbd84042"
+    },
+    {
+      "key": "defaultIptvLogo",
+      "value": "https://epg.112114.eu.org/logo/",
+      "id": "b2515cad-171d-47c7-8d41-35ecfe0e1bc6"
+    },
+    {
+      "key": "iptvSkipIpv6",
+      "value": true,
+      "id": "cfb2048a-6da2-49c5-963f-aee6e30a4577"
+    },
+    {
+      "key": "iptvThumbnail",
+      "value": false,
+      "id": "b247a341-4b75-4402-92b5-30eae68ae74c"
+    },
+    {
+      "key": "iptvStatus",
+      "value": false,
+      "id": "de5e691b-dd7d-41b9-8bd1-969e24feb676"
+    },
+    {
+      "key": "defaultSite",
+      "value": "c2822bba32d3068fe82dd2336d7be96c",
+      "id": "a103db22-57ed-4396-b4ba-9f2e8a8b403d"
+    },
+    {
+      "key": "defaultIptv",
+      "value": "e00f8473-7d21-4c96-95fb-5616963c4380",
+      "id": "138490ea-8bd8-4e58-9790-58f379a5f5b7"
+    },
+    {
+      "key": "defaultAnalyze",
+      "value": "zllIymvxBvwmdXxXpJrqU",
+      "id": "9abee7b9-9a34-4fdb-aa20-f72b49187f03"
+    },
+    {
+      "key": "analyzeFlag",
+      "value": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv"
+      ],
+      "id": "26d1c3d7-316e-480a-884d-fa32d919cd11"
+    },
+    {
+      "key": "defaultDrive",
+      "value": "",
+      "id": "c03b663f-0d78-405a-8508-79f14ff0ebb0"
+    },
+    {
+      "key": "softSolution",
+      "value": false,
+      "id": "122d93f6-4bdf-415a-9bc9-f83d07a98268"
+    },
+    {
+      "key": "agreementMask",
+      "value": true,
+      "id": "7b144577-802e-4e47-9cd6-6038a2fd02c5"
+    },
+    {
+      "key": "recordShortcut",
+      "value": "",
+      "id": "ca8eef7f-2b7f-4fde-811c-53050c806783"
+    },
+    {
+      "key": "selfBoot",
+      "value": false,
+      "id": "84dc8ce1-8ad6-46ba-b8cc-a36454f9b6f2"
+    },
+    {
+      "key": "hardwareAcceleration",
+      "value": true,
+      "id": "c9ee75c0-229a-4ee6-a663-00a738d00653"
+    },
+    {
+      "key": "ua",
+      "value": "Mozilla/5.0 (Linux; Android 11; M2007J3SC Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/6.2 TBS/045714 Mobile Safari/537.36",
+      "id": "1c0051de-cbcf-4ee6-84d7-b136e48daa64"
+    },
+    {
+      "key": "dns",
+      "value": "",
+      "id": "a7c47cac-7fb2-488a-a7fe-47138fd35ad1"
+    },
+    {
+      "key": "playerMode",
+      "value": {
+        "type": "dplayer",
+        "external": ""
+      },
+      "id": "06919acd-ab9f-4287-a850-9e7f2b1a3a74"
+    },
+    {
+      "key": "snifferMode",
+      "value": {
+        "type": "pie",
+        "url": ""
+      },
+      "id": "8ac5ba54-500b-45d5-96b6-8965e757897e"
+    },
+    {
+      "key": "timeout",
+      "value": 5000,
+      "id": "07598ebc-70ff-4918-9f0d-2287ebaa8367"
+    },
+    {
+      "key": "webdev",
+      "value": {
+        "sync": false,
+        "data": {
+          "url": "https://dav.jianguoyun.com/dav/",
+          "username": "",
+          "password": ""
+        }
+      },
+      "id": "5a1795b6-4a54-4f11-b89e-76568cecb75e"
+    },
+    {
+      "key": "barrage",
+      "value": {
+        "url": "",
+        "key": "",
+        "support": "",
+        "start": "",
+        "mode": "",
+        "color": "",
+        "content": ""
+      },
+      "id": "1501648d-2f84-42d5-93a9-19f934cc91a0"
+    },
+    {
+      "key": "windowPosition",
+      "value": {
+        "status": false,
+        "position_main": {
+          "width": 1000,
+          "height": 640
+        },
+        "position_play": {
+          "x": 522,
+          "y": 245,
+          "width": 875,
+          "height": 550
+        }
+      },
+      "id": "4955c984-2593-4f87-9610-5cd186b910c2"
+    },
+    {
+      "key": "ai",
+      "value": {
+        "server": "",
+        "key": "",
+        "model": ""
+      },
+      "id": "96205635-9fc8-41df-b5e6-5c432fdc8e70"
+    },
+    {
+      "key": "defaultFilterType",
+      "value": "off",
+      "id": "20dee087-4be1-46f4-a4e8-0e4c56aefab8"
+    },
+    {
+      "key": "debug",
+      "value": false,
+      "id": "696c3285-2c95-4ce5-8d42-ff800c98178b"
+    }
+  ]
+}

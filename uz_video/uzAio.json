@@ -1,0 +1,265 @@
+{
+    "recommend": [
+        {
+            "name": "豆瓣推荐 影视推荐",
+            "codeID": "N7WRmLmOdB8FSh4M",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/recommend/js/douban.txt",
+            "version": "3",
+            "type": 200
+        }
+    ],
+    "panTools": [
+        {
+            "name": "UC|夸克|阿里 网盘解析工具",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/panTools/js/panTools.js",
+            "env": "UCCookie##用于播放UC网盘视频&&夸克Cookie##用于播放Quark网盘视频&&阿里Token##用于播放阿里网盘视频&&转存文件夹名称##在各网盘转存文件时使用的文件夹名称",
+            "version": "6",
+            "type": 300
+        }
+    ],
+    "danMu": [
+        {
+            "name": "dandanPlay 弹幕",
+            "remark": "数据来自 弹弹Play",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/danMu/js/danMu.js",
+            "type": 400,
+            "version": 1
+        },
+        {
+            "name": "综合弹幕",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/danMu/js/danMu2.txt",
+            "codeID": "wMFsJrk98TmvWbYAjO4Mne3CZDRh619D",
+            "remark": "别那么执着，搜不到就算了",
+            "type": 400,
+            "version": 1
+        }
+    ],
+    "live": [
+       
+        {
+            "name": "风雪live",
+            "url": "https://ac.fookxue.top/tvzb.txt",
+            "type": 10,
+            "remark": "来自 冒失的风雪"
+        }
+    ],
+    "vod": [
+        {
+            "name": "玩偶4k",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/wogg.js",
+            "webSite": "https://www.wogg.net",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+  
+        {
+            "name": "A冒失的风雪snow微信公众号",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/zxzj.js",
+            "instance": "zxzj20240620",
+            "webSite": "https://www.zxzja.com",
+            "remark": "頻繁搜索會觸發風控，建議間隔10秒以上",
+            "version": "2",
+            "type": 100
+        },
+      
+        {
+            "name": "燒火電影",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/saohuo.js",
+            "instance": "saohuo20240623",
+            "webSite": "https://saohuo.tv",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "韓劇看看",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/hjkk.js",
+            "instance": "hjkk20240624",
+            "webSite": "https://www.hanjukankan.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+      
+        {
+            "name": "兩個BT",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/bttwo.js",
+            "instance": "bttwo20240628",
+            "webSite": "https://www.bttwoo.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "天天影視",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/tiantian.js",
+            "instance": "tiantian20240629",
+            "webSite": "http://op.ysdqjs.cn",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "蛋蛋劇",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/dandanju.js",
+            "instance": "dandanju20240704",
+            "webSite": "https://www.dandanju.tv",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+   
+      
+        {
+            "name": "瓜子web",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzys.js",
+            "instance": "gzys20240822",
+            "webSite": "https://api.zaqohu.com",
+            "remark": "不支持搜索",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "瓜子app",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/gzapp.js",
+            "codeID": "ra5Z3wtXKshzSMK2",
+            "instance": "gzapp20241001",
+            "webSite": "https://api.9cec79d.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+    
+        {
+            "name": "奇優影院",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/qiyou.js",
+            "instance": "qiyou20240904",
+            "webSite": "http://www.qiyoudy4.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+    
+        {
+            "name": "老白聽書",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/laobai.js",
+            "instance": "laobai20240831",
+            "webSite": "https://apk-lb-json.fodexin.com",
+            "remark": "",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "🐲欧歌资源",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ougepan.js",
+            "instance": "ougepan20241030",
+            "webSite": "https://woog.nxog.eu.org/",
+            "remark": "欧歌网盘",
+            "version": "2",
+            "type": 100
+        },
+        {
+            "name": "🍔奥秘影视",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/aomipan.js",
+            "instance": "aomipan20241030",
+            "webSite": "https://vip.omii.top/",
+            "remark": "奥秘网盘",
+            "version": "2",
+            "type": 100
+        },
+     
+     
+        {
+            "name": "云盘资源网",
+            "codeID": "",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/resyunpan.js",
+            "instance": "resYunPan20241120",
+            "webSite": "https://res.yunpan.win",
+            "remark": "",
+            "version": 1,
+            "type": 100
+        },
+        {
+            "name": "🐱玩偶备用",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/wobg.js",
+            "webSite": "http://wogg.xxooo.cf",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "🪵木偶UC4k",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/mogg.js",
+            "webSite": "http://www.muoupan.top",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "2",
+            "type": 101
+        },
+        {
+            "name": "🌾小米网盘",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/xiaomi.js",
+            "webSite": "http://www.mucpan.cc",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "⚡️至臻网盘",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/zhizhen.js",
+            "webSite": "https://mihdr.top",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "🖍蜡笔小新",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/labipan.js",
+            "webSite": "https://duopan.fun",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "🤠多多影音",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/duoduo.js",
+            "webSite": "https://tv.yydsys.top",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "🐲欧歌资源",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/ouge.js",
+            "webSite": "https://woog.nxog.eu.org",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "3",
+            "type": 101
+        },
+        {
+            "name": "🤙🏻六趣网盘",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/liuqu.js",
+            "webSite": "https://wp.0v.fit",
+            "remark": "网盘 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        },
+        {
+            "name": "💧哔嘀影视",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/biliys.js",
+            "webSite": "https://www.xlys01.com",
+            "remark": "1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        },
+        {
+            "name": "南风短剧",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/refs/heads/main/vod/js/nanfdj.js",
+            "webSite": "https://www.nanf.cc",
+            "remark": "网盘 | 1.6.41 及以上版本可用",
+            "version": "1",
+            "type": 101
+        }
+        
+    ]
+}
