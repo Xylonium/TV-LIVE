@@ -15,8 +15,8 @@
 ## TVbox下载地址
 
 |       [网盘](https://pan.xons.dpdns.org/)       | [TVBox](https://github.com/o0HalfLife0o/TVBoxOSC/releases) | [Telegram](https://t.me/fongmi_release) |
-| :-----------------------------------------: | :--------------------------------------------------------: | :-------------------------------------: |
-| ~~[UC盘](https://drive.uc.cn/s/8efe230949314)~~ |       ~~ [夸克](https://pan.quark.cn/s/d6d3c240d58e)  ~~       |  ~~  [舒宝](https://span.shubao.site/)~~    |
+| :---------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------: |
+| ~~[UC盘](https://drive.uc.cn/s/8efe230949314)~~ |      ~~[夸克](https://pan.quark.cn/s/d6d3c240d58e)~~       |  ~~[舒宝](https://span.shubao.site/)~~  |
 
 ## TVbox接口地址
 
