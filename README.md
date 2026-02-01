@@ -38,14 +38,22 @@ https://ghp.xons.me/https://raw.githubusercontent.com/Xylonium/TV-LIVE/refs/head
 ##### TV
 
 ```bash
-https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV/refs/heads/master/output/result.txt
+https://ghp.xons.me/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/GATV.m3u
 ```
 
-<!-- ```bash
-https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/itv/itvlist.txt
-``` -->
+```bash
+https://ghp.xons.me/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+```
 
-##### 范明明
+```bash
+https://ghp.xons.me/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/IPTV.m3u
+```
+
+```bash
+https://ghp.xons.me/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u
+```
+
+<!-- ##### 范明明
 
 ```bash
 https://ghp.xons.me/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u
@@ -63,13 +71,7 @@ https://ghp.xons.me/raw.githubusercontent.com/Ftindy/IPTV-URL/main/SXYD.m3u
 
 ```bash
 https://ghp.xons.me/raw.githubusercontent.com/Xylonium/TV-LIVE/refs/heads/main/tvbox/sac/sac.json
-```
-
-##### 俊于
-
-```bash
-http://home.jundie.top:81/Cat/tv/live.txt
-```
+``` -->
 
 ##### YanG-1989
 
