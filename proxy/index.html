@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>私人 Worker 混淆控制台</title>
+    <script src="https://cdn.jsdelivr.net/npm/javascript-obfuscator/dist/index.browser.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/js-beautify/1.14.9/beautify.min.js"></script>
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; background-color: #f4f4f9; padding: 20px; max-width: 1000px; margin: 0 auto; }
+        h2 { color: #333; }
+        .info { background: #eef2ff; padding: 10px; border-radius: 6px; color: #4f46e5; margin-bottom: 20px; font-size: 14px;}
+        textarea { width: 100%; height: 250px; padding: 10px; border: 1px solid #ccc; border-radius: 6px; font-family: 'Courier New', Courier, monospace; resize: vertical; box-sizing: border-box; margin-bottom: 10px; }
+        .controls { display: flex; gap: 15px; margin-bottom: 15px; flex-wrap: wrap; }
+        button { padding: 12px 24px; border: none; border-radius: 6px; font-size: 16px; font-weight: bold; cursor: pointer; transition: opacity 0.2s; color: white; }
+        button:hover { opacity: 0.8; }
+        .btn-obfuscate { background-color: #ef4444; }
+        .btn-format { background-color: #10b981; }
+        .btn-copy { background-color: #3b82f6; }
+    </style>
+</head>
+<body>
+
+    <h2>🛠️ 私人 Worker 代码处理站</h2>
+    <div class="info">
+        💡 <b>提示：</b>纯前端浏览器本地运算，代码不会上传到任何服务器，绝对安全。混淆参数已针对 Cloudflare 免费版 10ms CPU 限制进行调优。
+    </div>
+
+    <textarea id="inputCode" placeholder="👉 在这里粘贴你的纯净版 Worker 源码，或者别人混淆过的乱码..."></textarea>
+
+    <div class="controls">
+        <button class="btn-obfuscate" onclick="obfuscateCode()">🔒 一键安全混淆 (防1101)</button>
+        <button class="btn-format" onclick="beautifyCode()">📖 基础解密 (代码展开格式化)</button>
+        <button class="btn-copy" onclick="copyResult()">📋 复制结果</button>
+    </div>
+
+    <textarea id="outputCode" placeholder="✨ 处理后的代码会显示在这里..."></textarea>
+
+    <script>
+        function obfuscateCode() {
+            const input = document.getElementById('inputCode').value;
+            if (!input) return alert('大哥，先贴点代码进去啊！');
+            
+            try {
+                // 使用完美避开 CF 崩溃的配置
+                const result = JavaScriptObfuscator.obfuscate(input, {
+                    compact: true,                  // 压成一行
+                    controlFlowFlattening: false,   // 必须关：否则 CF CPU 超时报错 1101
+                    deadCodeInjection: false,       // 必须关：防止文件过大
+                    stringArray: true,              // 开启字符串隐藏（把网址变成 \x68）
+                    stringArrayEncoding: ['base64'],// 字符串加密模式
+                    identifierNamesGenerator: 'hexadecimal' // 变量名变 _0x 格式
+                });
+                document.getElementById('outputCode').value = result.getObfuscatedCode();
+            } catch (err) {
+                alert('混淆失败，可能是代码有语法错误：\n' + err.message);
+            }
+        }
+
+        function beautifyCode() {
+            const input = document.getElementById('inputCode').value;
+            if (!input) return alert('大哥，先贴点代码进去啊！');
+            // 将压扁的混淆代码重新展开，方便阅读结构
+            const formatted = js_beautify(input, { indent_size: 4, space_in_empty_paren: true });
+            document.getElementById('outputCode').value = formatted;
+        }
+
+        function copyResult() {
+            const output = document.getElementById('outputCode');
+            output.select();
+            document.execCommand('copy');
+            alert('复制成功！直接去 Cloudflare 粘贴吧！');
+        }
+    </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon='{"version":"2024.11.0","token":"e01b1925aaa5436ea23775fd3b97e5f2","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
