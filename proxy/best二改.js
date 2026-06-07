@@ -363,7 +363,7 @@ async function tgApiRequest(_env, _method, _payload){
 }
 async function getTgCoverUrl(_env) {
     // 兜底固定图片：如果你原有的那张壁纸
-    const fallbackUrl = 'https://img.xon.de5.net/file/xon/XiaoYu/AE6uAY5T.webp';
+    const fallbackUrl = 'https://hub.xon.de5.net/file/xon/R/8tsU0FhA.webp';
 
     try {
         // 检查是否配置了 Unsplash API Key
