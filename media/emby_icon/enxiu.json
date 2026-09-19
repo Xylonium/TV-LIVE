@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-09-01 22:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-09-18 09:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -77,6 +77,10 @@
         {
             "name": "Emby",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DIYEmby-02.png"
+        },
+        {
+            "name": "Emby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DIYEmby-03.png"
         },
         {
             "name": "105° Ciallo",
@@ -316,7 +320,11 @@
         },
         {
             "name": "ChaPanda ChaBaiDao",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChaPanda.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChaPanda-01.png"
+        },
+        {
+            "name": "ChaPanda ChaBaiDao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChaPanda-02.png"
         },
         {
             "name": "CharonTV KaRong",
@@ -329,6 +337,10 @@
         {
             "name": "ChefsSecretMenu CaiDan",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChefsSecretMenu.png"
+        },
+        {
+            "name": "ChenCheng",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenCheng.png"
         },
         {
             "name": "Cherry YingTao",
@@ -391,12 +403,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ClimbHigh-02.png"
         },
         {
-            "name": "Cloud YunShang",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CloudEmby-01.png"
-        },
-        {
-            "name": "Cloud YunShang",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CloudEmby-02.png"
+            "name": "Cloud",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/CloudEmby.png"
         },
         {
             "name": "CoCo",
@@ -651,8 +659,12 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EOOS-03.png"
         },
         {
-            "name": "ErLouYouQing",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ErLouYouQing.png"
+            "name": "ErLouYouQing 2Lou",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ErLouYouQing-01.png"
+        },
+        {
+            "name": "ErLouYouQing 2Lou",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ErLouYouQing-02.png"
         },
         {
             "name": "ETFLIX",
@@ -757,6 +769,10 @@
         {
             "name": "FuFu",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FufuEmby-02.png"
+        },
+        {
+            "name": "FunToFun FTF",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FunToFun.png"
         },
         {
             "name": "FWorks",
@@ -1023,6 +1039,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Iris-05.png"
         },
         {
+            "name": "IrisACG YuanWei",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/IrisACG.png"
+        },
+        {
             "name": "ItsmygoTV",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ItsmygoTV.png"
         },
@@ -1177,6 +1197,10 @@
         {
             "name": "L",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Lemby.png"
+        },
+        {
+            "name": "LeGuan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LeguanEmby.png"
         },
         {
             "name": "LevildeLuminia",
@@ -1823,6 +1847,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/NyaMedia-02.png"
         },
         {
+            "name": "OceanCloud YunHai",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OceanCloudEmby.png"
+        },
+        {
             "name": "OK",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OkEmby-01.png"
         },
@@ -1833,6 +1861,10 @@
         {
             "name": "OK",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OkEmby-03.png"
+        },
+        {
+            "name": "OnCloud YunShang",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OnCloudEmby.png"
         },
         {
             "name": "Onyra",
@@ -1861,6 +1893,14 @@
         {
             "name": "OrigamiArt ZheZhi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OrigamiArt-06.png"
+        },
+        {
+            "name": "OrigamiArt ZheZhi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OrigamiArt-07.png"
+        },
+        {
+            "name": "OrigamiArt ZheZhi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/OrigamiArt-08.png"
         },
         {
             "name": "OverCooked ZhuHuLe DaChu",
@@ -2303,11 +2343,19 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/StevenEmby.png"
         },
         {
-            "name": "TanHuaTV",
+            "name": "SuiShiPaoLu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SuiShiPaoLu-01.png"
+        },
+        {
+            "name": "SuiShiPaoLu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SuiShiPaoLu-02.png"
+        },
+        {
+            "name": "TanHua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TanhuaTV-01.png"
         },
         {
-            "name": "TanHuaTV",
+            "name": "TanHua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TanhuaTV-02.png"
         },
         {
@@ -2419,8 +2467,12 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/VioletEmby.png"
         },
         {
-            "name": "VOD",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/VodEmby.png"
+            "name": "VOD CMS",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/VODCMS-01.png"
+        },
+        {
+            "name": "VOD CMS",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/VODCMS-02.png"
         },
         {
             "name": "Walnut",
@@ -2445,6 +2497,14 @@
         {
             "name": "Walnut",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WalnutEmby-06.png"
+        },
+        {
+            "name": "WanWan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WanwanEmby-01.png"
+        },
+        {
+            "name": "WanWan",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/WanwanEmby-02.png"
         },
         {
             "name": "WaWaJiao",
