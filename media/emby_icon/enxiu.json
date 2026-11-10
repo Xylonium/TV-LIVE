@@ -1,6 +1,6 @@
 {
     "name": "恩秀Emby图标库",
-    "description": "作者：sooyaaabo｜更新时间：2026-10-07 23:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
+    "description": "作者：sooyaaabo｜更新时间：2026-11-09 22:00｜本图标库中部分图标来源于TFEL-Emby图标库或基于其进行二次创作，特此说明",
     "icons": [
         {
             "name": "AList",
@@ -117,6 +117,18 @@
         {
             "name": "404NotFound",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/404NotFound-06.png"
+        },
+        {
+            "name": "9527",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/9527Emby-01.png"
+        },
+        {
+            "name": "9527",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/9527Emby-02.png"
+        },
+        {
+            "name": "Aetrix",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/AetrixEmby.png"
         },
         {
             "name": "AI",
@@ -348,11 +360,27 @@
         },
         {
             "name": "ChenCheng",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenCheng-01.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenchengEmby-01.png"
         },
         {
             "name": "ChenCheng",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenCheng-02.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenchengEmby-02.png"
+        },
+        {
+            "name": "ChenCheng",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenchengEmby-03.png"
+        },
+        {
+            "name": "ChenYu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenyuEmby-01.png"
+        },
+        {
+            "name": "ChenYu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenyuEmby-02.png"
+        },
+        {
+            "name": "ChenYu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/ChenyuEmby-03.png"
         },
         {
             "name": "Cherry YingTao",
@@ -523,6 +551,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DimLight.png"
         },
         {
+            "name": "Dolphin HaiTun",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DolphinEmby.png"
+        },
+        {
             "name": "Doubon",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Doubon-01.png"
         },
@@ -567,6 +599,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DreamWorks-05.png"
         },
         {
+            "name": "Drivemby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Drivemby-01.png"
+        },
+        {
+            "name": "Drivemby",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Drivemby-02.png"
+        },
+        {
             "name": "Dusky",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/DuskyEmby.png"
         },
@@ -601,6 +641,10 @@
         {
             "name": "EchoFlix HuiSheng",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-05.png"
+        },
+        {
+            "name": "EchoFlix HuiSheng",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/EchoFlix-06.png"
         },
         {
             "name": "Edge",
@@ -755,6 +799,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FeiYueYinHe-02.png"
         },
         {
+            "name": "FengHuoLun",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FengHuoLun.png"
+        },
+        {
             "name": "Fiti",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Fiti.png"
         },
@@ -773,6 +821,18 @@
         {
             "name": "FJY",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FJYEmby.png"
+        },
+        {
+            "name": "Freshippo HeMa",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FreshippoEmby-01.png"
+        },
+        {
+            "name": "Freshippo HeMa",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FreshippoEmby-02.png"
+        },
+        {
+            "name": "Freshippo HeMa",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/FreshippoEmby-03.png"
         },
         {
             "name": "FuFu",
@@ -873,6 +933,10 @@
         {
             "name": "GUAI",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/GuaiEmby-05.png"
+        },
+        {
+            "name": "GuangYing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/GuangyingEmby.png"
         },
         {
             "name": "GuiXianWu",
@@ -1387,6 +1451,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LollipopEmby-06.png"
         },
         {
+            "name": "Longcc YuLong",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LongccEmby.png"
+        },
+        {
             "name": "Long",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/LongEmby.png"
         },
@@ -1623,6 +1691,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MilkEmby-02.png"
         },
         {
+            "name": "Milk SiJi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MilkEmby-03.png"
+        },
+        {
             "name": "Miorina",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Miorina.png"
         },
@@ -1707,8 +1779,8 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Mooncake-04.png"
         },
         {
-            "name": "Mooncake YueBing",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/Mooncake-05.png"
+            "name": "Mora WeiGuangDuanJu",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/MoraEmby.png"
         },
         {
             "name": "MoYunGe",
@@ -1985,6 +2057,10 @@
         {
             "name": "Peach TaoZi",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PeachEmby-03.png"
+        },
+        {
+            "name": "PeekPeek",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/PeekpeekEmby.png"
         },
         {
             "name": "PiliPili",
@@ -2395,6 +2471,10 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SuiShiPaoLu-02.png"
         },
         {
+            "name": "SuiYing",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/SuiYing.png"
+        },
+        {
             "name": "TanHua",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/TanhuaTV-01.png"
         },
@@ -2703,6 +2783,14 @@
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YiMeng.png"
         },
         {
+            "name": "YingQiao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YingQiao-01.png"
+        },
+        {
+            "name": "YingQiao",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YingQiao-02.png"
+        },
+        {
             "name": "YingYangKuaiXian YYKX",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YingYangKuaiXian.png"
         },
@@ -2716,7 +2804,15 @@
         },
         {
             "name": "YiZhuQingTian ZMFS ZMGS",
-            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YiZhuQingTian.png"
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YiZhuQingTian-01.png"
+        },
+        {
+            "name": "YiZhuQingTian ZMFS ZMGS",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YiZhuQingTian-02.png"
+        },
+        {
+            "name": "YiZhuQingTian ZMFS ZMGS",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YiZhuQingTian-03.png"
         },
         {
             "name": "Yomo",
@@ -2797,6 +2893,14 @@
         {
             "name": "Yum",
             "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YumEmby.png"
+        },
+        {
+            "name": "YunXi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YunxiEmby-01.png"
+        },
+        {
+            "name": "YunXi",
+            "url": "https://raw.githubusercontent.com/sooyaaabo/IconLibrary/main/Emby/YunxiEmby-02.png"
         },
         {
             "name": "YuSen",
